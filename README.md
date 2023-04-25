@@ -1,4 +1,4 @@
-# Bilibili Video Data Scraper
+# B站视频信息爬虫
 
 Bilibili 视频数据爬虫，能**批量**爬取指定视频的信息。
 
