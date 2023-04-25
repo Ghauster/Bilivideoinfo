@@ -19,3 +19,4 @@ Bilibili 视频数据爬虫，能**批量**爬取指定视频的信息。
 ## 注意事项
 
 - 请确保在运行代码之前已安装所需的 Python 库（如 requests、beautifulsoup4 和 openpyxl）
+- 不用登录，但请确保网络畅通
