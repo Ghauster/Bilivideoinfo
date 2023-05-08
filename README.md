@@ -15,7 +15,7 @@ Bilibili 视频数据爬虫，能**批量**爬取指定视频的信息。
 1. 将需要爬取的**视频链接**（http或https开头）或**视频 ID**（bid） 列表存储在名为 `idlist.txt` 的文件中，每行一个
 2. 运行 `python scraper.py`
 3. 爬取的数据将保存到名为 `output.xlsx` 的 Excel 文件中
-4. 如果有出错，出错的记录会保存到video_errorlist.txt中
+4. 如果有出错，出错的记录会保存到`video_errorlist.txt`中
 
 ## 注意事项
 
